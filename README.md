@@ -1,6 +1,6 @@
 # GCSEApps
  
-## Cough Simulator (2016/2017)
+## [Cough Simulator (2016/2017)](https://github.com/jamesharrison0799/GCSEApps/tree/master/CoughSimulator2016)
 Grim.
 
 Avaliable on:
